@@ -50,22 +50,6 @@ This project is a comprehensive ride-sharing platform that caters to Travelers, 
 - Feedback submission and analysis
 - Admin dashboard for ride and feedback overview
 
-## Scalability
-- Horizontal and vertical scaling strategies
-- Cloud-based solutions for elasticity
-
-## Installation and Setup
-(Add instructions for setting up the project locally)
-
-## Usage
-(Add instructions on how to use the platform)
-
-## Contributing
-(Add guidelines for contributing to the project)
-
-## License
-(Add your chosen license)
-
 ## Contact
 Aditya Sahani - B22CS003
 IIT Jodhpur
