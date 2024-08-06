@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "music recommendation based on emotion recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "ADITYA SAHANI and ADTIYA JAISWAL",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "hamburger-react": "^2.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.3",
+    "twilio": "^5.2.2"
+  }
+}
